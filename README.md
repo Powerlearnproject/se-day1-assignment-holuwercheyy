@@ -36,9 +36,6 @@ Requirement analysis - identify the final user specification.
 Design - building the framework. 
 
 
-Coding means converting software design into tangible code.
-
-
 Testing - examine the software for any bugs and glitches.
 
 
