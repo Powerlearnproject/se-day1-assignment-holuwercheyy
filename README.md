@@ -36,10 +36,15 @@ Requirement analysis - identify the final user specification.
 Design - building the framework. 
 
 
+Coding - converting software design into tangible code.
+
+
 Testing - examine the software for any bugs and glitches.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
+
 Waterfall methodology - Linear and sequential, each phase is completed before moving on.
 
 
