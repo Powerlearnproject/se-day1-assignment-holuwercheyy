@@ -10,10 +10,16 @@ Explain what software engineering is and discuss its importance in the technolog
 
 
 Software engineering is a branch of computer science used for developing, testing and maintaining software.
+
+
 Identify and describe at least three key milestones in the evolution of software engineering.
+
+
 Mastering complexity
 Mastering process
 Mastering machine
+
+
 List and briefly explain the phases of the Software Development Life Cycle.
 Planning - identify the software requirement or purpose and scope.
 Requirement analysis - identify the final user specification. 
