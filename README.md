@@ -33,7 +33,7 @@ Planning - identify the software requirement or purpose and scope.
 Requirement analysis - identify the final user specification. 
 
 
-Design: building the framework. 
+Design - building the framework. 
 
 
 Coding: converting software design into tangible code.
