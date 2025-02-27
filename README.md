@@ -27,10 +27,10 @@ Mastering machine
 List and briefly explain the phases of the Software Development Life Cycle.
 
 
-Planning: identify the software requirement or purpose and scope.
+Planning - identify the software requirement or purpose and scope.
 
 
-Requirement analysis: identify the final user specification. 
+Requirement analysis - identify the final user specification. 
 
 
 Design: building the framework. 
