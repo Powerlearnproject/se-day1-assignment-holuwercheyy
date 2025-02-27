@@ -1,16 +1,14 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18435299&assignment_repo_type=AssignmentRepo)
 # SE_Day1
+holuwercheyy
 Software Engineering Day1 Assignment
 Day 1 Assignment
 Part 1: Introduction to Software Engineering
 A. Explain what software engineering is and discuss its importance in the technology industry.
 
-
 Software Engineering is a discipline within computer science that involves the design, development, testing, deployment, and maintenance of software systems. It applies engineering principles to software creation, ensuring that the software is reliable, efficient, maintainable, and scalable.
 
-
 Key Aspects of Software Engineering:
-
 
 1.	Requirements Analysis: Understanding and documenting what the users need from the software.
 2.	Design: Creating a blueprint for the software, which includes the architecture and detailed design of components.
